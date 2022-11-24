@@ -11,10 +11,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
 Clone o projeto e em seguida acesse a pasta no terminal/cmd:
-$ cd clima-tempo
+$ cd pasta-criada
 
-Em seguida vá para a pasta my-app
-$ cd my-app
+Em seguida vá para a pasta e acesse clima-tempo-2b
+$ cd clima-tempo-2b
 
 Rode o comando para instalar as dependências:
 
