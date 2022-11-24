@@ -10,7 +10,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com) , [Node.js](https://nodejs.org/en/) , [Npm](https://www.npmjs.com/) ,[React](https://pt-br.reactjs.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
 
-Clone o projeto e em seguida rode o comando para instalar as dependências:
+Clone o projeto e em seguida acesse a pasta no terminal/cmd:
+$ cd clima-tempo
+
+Em seguida vá para a pasta my-app
+$ cd my-app
+
+Rode o comando para instalar as dependências:
 
 ### `npm install`
 
