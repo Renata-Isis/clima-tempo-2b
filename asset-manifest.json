@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/clima-tempo-2b/static/css/main.1b499998.css",
+    "main.js": "/clima-tempo-2b/static/js/main.14d442dd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/clima-tempo-2b/static/js/787.28cb0dcd.chunk.js",
+    "static/media/backgroundRain.jpg": "/clima-tempo-2b/static/media/backgroundRain.c30349c97a194dab431f.jpg",
+    "static/media/loader.gif": "/clima-tempo-2b/static/media/loader.1aa6ccdfe6c6fe211087.gif",
+    "index.html": "/clima-tempo-2b/index.html",
+    "main.1b499998.css.map": "/clima-tempo-2b/static/css/main.1b499998.css.map",
+    "main.14d442dd.js.map": "/clima-tempo-2b/static/js/main.14d442dd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/clima-tempo-2b/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b499998.css",
+    "static/js/main.14d442dd.js"
+  ]
+}
