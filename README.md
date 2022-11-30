@@ -2,6 +2,8 @@
 
 Projeto realizado com ReactJs, utilizando a api do OpenWeatherMap (http://openweathermap.org/). A finalidade do projeto é o úsuario pesquisar a Meteorologia da sua cidade, atráves da consulta a api.
 
+Link para acessar a aplicação: https://renata-isis.github.io/clima-tempo-2b/
+
 ### Status: concluído.
 
 ## Pré-requisitos:
